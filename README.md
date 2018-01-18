@@ -1,4 +1,4 @@
-# git 2.11
+# git 2.15
 
-![Build Status](https://travis-ci.org/cyber-dojo-languages/git-2.11.svg?branch=master)
+![Build Status](https://travis-ci.org/cyber-dojo-languages/git-2.15.svg?branch=master)
 
